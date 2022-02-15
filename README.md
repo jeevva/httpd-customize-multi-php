@@ -79,11 +79,4 @@ You can also add other php versions that are needed, follow the steps below.
 
 
 
-# Credit :
--httpd.apache.org
 
--www.php.net
-
--Antonius Hasoloan
-
--Giga Iswanto
